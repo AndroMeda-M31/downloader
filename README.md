@@ -74,3 +74,11 @@ a
 
 موفق باشید.
 
+
+---
+
+## فایل های دانلود شده در گیتهاب شما :
+
+1 - [kali-nethunter-2026.1-generic-arm64-full](https://github.com/AndroMeda-M31/downloader/tree/main/downloads/kali-nethunter-2026.1-generic-arm64-full)
+
+---
